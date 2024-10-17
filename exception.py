@@ -1,0 +1,2 @@
+class PeliParseError(Exception):
+    pass

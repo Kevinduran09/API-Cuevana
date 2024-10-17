@@ -1,0 +1,1955 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <title>
+   Últimas películas publicadas - Cuevana
+  </title>
+  <meta content="index,follow" name="robots"/>
+  <meta content="Listado de las últimas películas publicadas en el sitio web Cuevana. Encontrá toda variedad de péliculas en un solo lugar." name="description"/>
+  <meta content="Últimas películas publicadas - Cuevana" property="og:title"/>
+  <meta content="Listado de las últimas películas publicadas en el sitio web Cuevana. Encontrá toda variedad de péliculas en un solo lugar." property="og:description"/>
+  <link href="https://cuevana.biz/peliculas" rel="canonical"/>
+  <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/site.webmanifest" rel="manifest"/>
+  <link as="image" imagesrcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=640&amp;q=75 2x" rel="preload"/>
+  <meta content="13" name="next-head-count"/>
+  <link as="style" href="/_next/static/css/579e28e2dc0f669d.css" rel="preload"/>
+  <link data-n-g="" href="/_next/static/css/579e28e2dc0f669d.css" rel="stylesheet"/>
+  <noscript data-n-css="">
+  </noscript>
+  <script defer="" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/webpack-d7b038a63b619762.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/framework-4556c45dd113b893.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/main-d1d84c80acd7c0f3.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/_app-741d8a07513f9883.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/195-57616f29e3bec55a.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/809-74fb5cc088bcf487.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/86-fbb564c5952abfaa.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/peliculas-31cc1861743ee804.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/npsUg335OXnW9LSY_6Esg/_buildManifest.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+  <script defer="" src="/_next/static/npsUg335OXnW9LSY_6Esg/_ssgManifest.js" type="7e066b93c9d30a592c704d8f-text/javascript">
+  </script>
+ </head>
+ <body>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=G-29EGLJ8SMK" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div id="__next">
+   <style>
+    #nprogress {
+        pointer-events: none;
+      }
+      #nprogress .bar {
+        background: #29D;
+        position: fixed;
+        z-index: 9999;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+      }
+      #nprogress .peg {
+        display: block;
+        position: absolute;
+        right: 0px;
+        width: 100px;
+        height: 100%;
+        box-shadow: 0 0 10px #29D, 0 0 5px #29D;
+        opacity: 1;
+        -webkit-transform: rotate(3deg) translate(0px, -4px);
+        -ms-transform: rotate(3deg) translate(0px, -4px);
+        transform: rotate(3deg) translate(0px, -4px);
+      }
+      #nprogress .spinner {
+        display: block;
+        position: fixed;
+        z-index: 1031;
+        top: 15px;
+        right: 15px;
+      }
+      #nprogress .spinner-icon {
+        width: 18px;
+        height: 18px;
+        box-sizing: border-box;
+        border: solid 2px transparent;
+        border-top-color: #29D;
+        border-left-color: #29D;
+        border-radius: 50%;
+        -webkit-animation: nprogresss-spinner 400ms linear infinite;
+        animation: nprogress-spinner 400ms linear infinite;
+      }
+      .nprogress-custom-parent {
+        overflow: hidden;
+        position: relative;
+      }
+      .nprogress-custom-parent #nprogress .spinner,
+      .nprogress-custom-parent #nprogress .bar {
+        position: absolute;
+      }
+      @-webkit-keyframes nprogress-spinner {
+        0% {
+          -webkit-transform: rotate(0deg);
+        }
+        100% {
+          -webkit-transform: rotate(360deg);
+        }
+      }
+      @keyframes nprogress-spinner {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+   </style>
+   <div class="body">
+    <div id="aa-wp">
+     <header class="Header">
+      <div class="cont">
+       <div class="top dfx alg-cr jst-sb">
+        <a class="logo" href="/inicio">
+         <img alt="Cuevana" data-nimg="future" decoding="async" height="60" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=640&amp;q=75" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=640&amp;q=75 2x" style="color:transparent" width="240"/>
+        </a>
+        <span class="MenuBtn aa-tgl" data-tgl="aa-wp">
+         <i>
+         </i>
+         <i>
+         </i>
+         <i>
+         </i>
+        </span>
+        <span class="MenuBtnClose aa-tgl" data-tgl="aa-wp">
+        </span>
+        <div class="Rght BgA dfxc alg-cr fg1">
+         <div class="Search">
+          <form action="/search" id="searchform" method="get">
+           <span class="Form-Icon">
+            <input autocomplete="off" name="q" placeholder="Buscador..." required="" type="search"/>
+            <button id="searchsubmit" title="Buscar" type="submit">
+             <svg class="abf ic cc-c" id="ic-search" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+              <path d="M500.3 443.7l-119.7-119.7c27.22-40.41 40.65-90.9 33.46-144.7C401.8 87.79 326.8 13.32 235.2 1.723C99.01-15.51-15.51 99.01 1.724 235.2c11.6 91.64 86.08 166.7 177.6 178.9c53.8 7.189 104.3-6.236 144.7-33.46l119.7 119.7c15.62 15.62 40.95 15.62 56.57 0C515.9 484.7 515.9 459.3 500.3 443.7zM79.1 208c0-70.58 57.42-128 128-128s128 57.42 128 128c0 70.58-57.42 128-128 128S79.1 278.6 79.1 208z">
+              </path>
+             </svg>
+            </button>
+           </span>
+          </form>
+         </div>
+         <nav class="Menu fg1">
+          <ul>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="/">
+             Inicio
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+            <a href="/peliculas">
+             Películas
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/peliculas">
+               Últimas publicadas
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/peliculas/estrenos">
+               Estrenos
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/peliculas/tendencias/semana">
+               Tendencias semana
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/peliculas/tendencias/dia">
+               Tendencias día
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" id="menu-item-1953">
+            <a href="#">
+             Generos
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/accion">
+               Acción
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/aventura">
+               Aventura
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/animacion">
+               Animación
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/ciencia-ficcion">
+               Ciencia ficción
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/crimen">
+               Crimen
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/drama">
+               Drama
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/familia">
+               Familia
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/fantasia">
+               Fantasía
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/misterio">
+               Misterio
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/romance">
+               Romance
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/suspense">
+               Suspense
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/genero/terror">
+               Terror
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children">
+            <a href="/series">
+             Series
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/series">
+               Series
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/series/estrenos">
+               Estrenos
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/episodios">
+               Episodios
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/series/tendencias/dia">
+               Tendencias dia
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+              <a href="/series/tendencias/semana">
+               Tendencias semana
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </nav>
+        </div>
+       </div>
+      </div>
+     </header>
+     <div class="bd">
+      <div class="bd">
+       <div class="TpRwCont cont">
+        <main>
+         <section class="home-movies">
+          <div class="Top">
+           <h1 class="Title">
+            Últimas películas publicadas
+           </h1>
+           <div class="DescriptionArchive">
+            <p>
+             En esta sección tendrás las últimas películas publicadas en cuevana, cada vez que subimos una película nueva, aquí verás el contenido más reciente y actualizado. Sin embargo, puedes visitar la sección de
+             <a href="/peliculas/tendencias/dia" title="peliculas tendencia del día">
+              <strong>
+               peliculas tendencia del día
+              </strong>
+             </a>
+             y
+             <a href="/peliculas/tendencias/semana" title="películas tendencia de la semana">
+              <strong>
+               tendencia de la semana
+              </strong>
+             </a>
+             .
+            </p>
+           </div>
+          </div>
+          <div class="apt">
+           <ul class="MovieList Rows">
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1338458/diane">
+               <div class="Image">
+                <span class="Year">
+                 1970
+                </span>
+               </div>
+               <span class="Title block">
+                Diane
+               </span>
+              </a>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1186672/war-game">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="War Game" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FczqalW2HzjiUWWWvM1F7W3xCLHv.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FczqalW2HzjiUWWWvM1F7W3xCLHv.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FczqalW2HzjiUWWWvM1F7W3xCLHv.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                War Game
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                War Game
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 7
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 34min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 A bipartisan group of U.S. defense, intelligence, and elected policymakers spanning five presidential administrations pa
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Documental
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Steve Bullock, Wesley Clark, Heidi Heitkamp
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1141233/super-papa">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Super Papa" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5zCEsEhpw5sPkLYPx7kxDHKDhVF.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5zCEsEhpw5sPkLYPx7kxDHKDhVF.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5zCEsEhpw5sPkLYPx7kxDHKDhVF.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Super Papa
+               </span>
+              </a>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1159799/my-penguin-friend">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="My Penguin Friend" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F35RZnTLKUZ9WMx1y2RZC9rhDcwU.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F35RZnTLKUZ9WMx1y2RZC9rhDcwU.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F35RZnTLKUZ9WMx1y2RZC9rhDcwU.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                My Penguin Friend
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                My Penguin Friend
+               </div>
+               <p class="Info">
+                <span class="Time AAIco-access_time">
+                 1h 37min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Inspired by a true story; an enchanting adventure about a lost penguin rescued from an oil spill, who transforms the lif
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Familia
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Aventura
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Jean Reno, Adriana Barraza, Nicolás Francella
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1000075/largo-winch-le-prix-de-largent">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Largo Winch : Le prix de l’argent" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fjh4YOKHHg31NAx7v6voH5CyOS8F.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fjh4YOKHHg31NAx7v6voH5CyOS8F.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fjh4YOKHHg31NAx7v6voH5CyOS8F.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Largo Winch : Le prix de l’argent
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Largo Winch : Le prix de l’argent
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.3
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 40min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, ma
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Acción
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Aventura
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Tomer Sisley, James Franco, Clotilde Hesme
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1261352/dead-whisper">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Dead Whisper" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feh4B3ABVhsx5w9p5eNbtwYx2YUO.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feh4B3ABVhsx5w9p5eNbtwYx2YUO.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Feh4B3ABVhsx5w9p5eNbtwYx2YUO.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Dead Whisper
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Dead Whisper
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 4.3
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 30min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Elliot Campbell, un abogado de Cape Cod, se siente atraído por una isla misteriosa donde siente la tentación de reunirse
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Terror
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Samuel Dunning, Codey Gillum, Samantha Hill
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/981063/before-dawn">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Before Dawn" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa51x5NWJqdzWbFA58dwRgwfgQDj.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa51x5NWJqdzWbFA58dwRgwfgQDj.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa51x5NWJqdzWbFA58dwRgwfgQDj.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Before Dawn
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Before Dawn
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.5
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 41min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Inspired by the real-life diary entries of local ANZACs, the feature film details the untold story of some of Australia’
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Historia
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Guerra
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Levi Miller, Travis Jeffery, Ed Oxenbould
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/957452/el-cuervo">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="El Cuervo" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FX9iFHeIYgfqoZImvdidx8b9v4R.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FX9iFHeIYgfqoZImvdidx8b9v4R.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FX9iFHeIYgfqoZImvdidx8b9v4R.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                El Cuervo
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                El Cuervo
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.57
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 51min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Cuando las almas gemelas, Eric y Shelly, son brutalmente asesinadas, los demonios de su oscuro pasado los alcanzan. Ant
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Acción
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Fantasía
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Bill Skarsgård, FKA Twigs, Danny Huston
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/840705/parpadea-dos-veces">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Parpadea dos veces" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa4o3f9dmxB9TyFNMncvwspSoVLJ.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa4o3f9dmxB9TyFNMncvwspSoVLJ.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fa4o3f9dmxB9TyFNMncvwspSoVLJ.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Parpadea dos veces
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Parpadea dos veces
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 7
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 43min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Cuando el multimillonario tecnológico Slater King conoce a la camarera Frida en su gala de recaudación de fondos, la inv
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Naomi Ackie, Channing Tatum, Christian Slater
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/974950/emilia-perez">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Emilia Pérez" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr5sYdlJFys6YETQb63lvRR4fKEL.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr5sYdlJFys6YETQb63lvRR4fKEL.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fr5sYdlJFys6YETQb63lvRR4fKEL.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Emilia Pérez
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Emilia Pérez
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 7.76
+                </span>
+                <span class="Time AAIco-access_time">
+                 2h 12min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Rita, una infravalorada abogada que trabaja para un gran bufete más interesado en librar a los criminales de la cárcel q
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Karla Sofía Gascón, Zoe Saldaña, Selena Gómez
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/1226578/longlegs-coleccionista-de-almas">
+               <div class="Image">
+                <span class="Year">
+                 2024
+                </span>
+                <img alt="Longlegs: Coleccionista de almas" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Longlegs: Coleccionista de almas
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Longlegs: Coleccionista de almas
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.71
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 41min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2024
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 El agente del FBI, Lee Harker, es asignado a un caso sin resolver de un asesino en serie que da giros inesperados, revel
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Crimen
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Terror
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Maika Monroe, Nicolas Cage, Blair Underwood
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/810731/por-que-me-mataron">
+               <div class="Image">
+                <span class="Year">
+                 2021
+                </span>
+                <img alt="Por qué me Mataron?" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5x95riaxPFC8SUQTit4ZkkqxXh.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5x95riaxPFC8SUQTit4ZkkqxXh.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5x95riaxPFC8SUQTit4ZkkqxXh.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Por qué me Mataron?
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Por qué me Mataron?
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.98
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 23min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2021
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 El límite entre la justicia y la venganza se desdibuja cuando una familia destrozada usa las redes sociales para encontr
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Documental
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Crimen
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Belinda Lane
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/557294/zombie-a-los-17">
+               <div class="Image">
+                <span class="Year">
+                 2018
+                </span>
+                <img alt="Zombie a los 17" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtPdbiPceitdmvPLiNSvLQF0yJg8.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtPdbiPceitdmvPLiNSvLQF0yJg8.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FtPdbiPceitdmvPLiNSvLQF0yJg8.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Zombie a los 17
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Zombie a los 17
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.8
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 22min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2018
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Tia Scott es una adolescente de 17 años que tuvo una vida bastante normal hasta que comienza a mostrar síntomas extraños
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Suspenso
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Terror
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Laurie Fortier, Celeste Desjardins, Seamus Patterson
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/804435/otra-forma-de-vencer">
+               <div class="Image">
+                <span class="Year">
+                 2021
+                </span>
+                <img alt="Otra forma de vencer" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fosut731qKshSV7wc4VQ7VkIlGVW.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fosut731qKshSV7wc4VQ7VkIlGVW.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fosut731qKshSV7wc4VQ7VkIlGVW.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Otra forma de vencer
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Otra forma de vencer
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.38
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 36min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2021
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Victoria es una madre joven que intenta dejar atrás su oscuro pasado como mensajero de drogas ruso, pero el policía reti
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Acción
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Aventura
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Ruby Rose, Morgan Freeman, Patrick Muldoon
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/796849/contigo-a-muerte">
+               <div class="Image">
+                <span class="Year">
+                 2021
+                </span>
+                <img alt="Contigo a muerte" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvCaAcunvp2yabxG5I1HACKbKw1p.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvCaAcunvp2yabxG5I1HACKbKw1p.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FvCaAcunvp2yabxG5I1HACKbKw1p.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Contigo a muerte
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Contigo a muerte
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.73
+                </span>
+                <span class="Time AAIco-access_time">
+                 2h 22min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2021
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Su esposo abusivo ha muerto a manos de una amiga lesbiana que haría cualquier cosa por ella. Ahora huyen para ponerse a
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Romance
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Kiko Mizuhara, Honami Sato, 真木よう子
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/644083/twist">
+               <div class="Image">
+                <span class="Year">
+                 2021
+                </span>
+                <img alt="Twist" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7sXthW46RwmPBdacGHnhOzLv40d.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7sXthW46RwmPBdacGHnhOzLv40d.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F7sXthW46RwmPBdacGHnhOzLv40d.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Twist
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Twist
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.9
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 32min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2021
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Del soñador directivo Martin Owen, Twist es el tradicional cuento de Hables Dicken actualizado de forma apasionante en e
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Crimen
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Acción
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Raff Law, Michael Caine, Lena Headey
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/615678/fuerza-trueno">
+               <div class="Image">
+                <span class="Year">
+                 2021
+                </span>
+                <img alt="Fuerza Trueno" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fe9r4aLl7OAXdGK49u5oEjlbHKA3.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fe9r4aLl7OAXdGK49u5oEjlbHKA3.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fe9r4aLl7OAXdGK49u5oEjlbHKA3.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Fuerza Trueno
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Fuerza Trueno
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 5.51
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 47min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2021
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 En un mundo aterrorizado por los supervillanos, una mujer ha desarrollado la capacidad de dar superpoderes a las persona
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Comedia
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Acción
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Aventura
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Ciencia ficción
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Melissa McCarthy, Octavia Spencer, Jason Bateman
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/507441/terror-en-alta-mar">
+               <div class="Image">
+                <span class="Year">
+                 2020
+                </span>
+                <img alt="Terror en Alta Mar" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F101kemQtied9Ny7SjC4i0oGFvKV.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F101kemQtied9Ny7SjC4i0oGFvKV.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F101kemQtied9Ny7SjC4i0oGFvKV.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Terror en Alta Mar
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Terror en Alta Mar
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.15
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 34min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2020
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 La tripulación de una embarcación irlandesa, abandonada en el mar, lucha por su vida contra un parásito que crece en su
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Suspenso
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Terror
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Ciencia ficción
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Misterio
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Hermione Corfield, Ardalan Esmaili, Olwen Fouéré
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/796734/rise-of-the-mummy">
+               <div class="Image">
+                <span class="Year">
+                 2020
+                </span>
+                <img alt="Rise of the Mummy" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3ygfjQoaLR4Orn8TmrcY0Th1cpZ.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3ygfjQoaLR4Orn8TmrcY0Th1cpZ.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F3ygfjQoaLR4Orn8TmrcY0Th1cpZ.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Rise of the Mummy
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Rise of the Mummy
+               </div>
+               <p class="Info">
+                <span class="Time AAIco-access_time">
+                 1h 27min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2020
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 A group of friends seize the opportunity to leave a fancy dress party when they learn their host has a stash of drugs at
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Terror
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/603772/eternos-companeros">
+               <div class="Image">
+                <span class="Year">
+                 2019
+                </span>
+                <img alt="Eternos Compañeros" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbhJOcIudt18f4SoKqczHgMmTkd6.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbhJOcIudt18f4SoKqczHgMmTkd6.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FbhJOcIudt18f4SoKqczHgMmTkd6.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Eternos Compañeros
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Eternos Compañeros
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 7.57
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 47min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2019
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Un pequeño labrador llamado "Little Q" está entrenando para convertirse en un perro guía para los ciegos. Cuando finaliz
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Familia
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 任達華, 梁詠琪, Him Law
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/651170/tengo-miedo-torero">
+               <div class="Image">
+                <span class="Year">
+                 2020
+                </span>
+                <img alt="Tengo miedo torero" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkvUYbb9QP5RLdqPDdLOTvTGS6iR.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkvUYbb9QP5RLdqPDdLOTvTGS6iR.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FkvUYbb9QP5RLdqPDdLOTvTGS6iR.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Tengo miedo torero
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Tengo miedo torero
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 7.3
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 33min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2020
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Entre disparos y boleros, florece una apasionada relación entre un travesti solitario y un joven guerrillero durante la
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Romance
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Alfredo Castro, Leonardo Ortizgris, Julieta Zylberberg
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/625221/siervos-de-la-guerra">
+               <div class="Image">
+                <span class="Year">
+                 2019
+                </span>
+                <img alt="Siervos de la Guerra" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgxSLT3ZuZwwlhEGxZDR76nOD8ib.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgxSLT3ZuZwwlhEGxZDR76nOD8ib.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FgxSLT3ZuZwwlhEGxZDR76nOD8ib.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Siervos de la Guerra
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Siervos de la Guerra
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.54
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 38min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2019
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Dos policías son delegados para resolver el asesinato de un médico, un especialista en trasplantes de médula ósea y jefe
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Suspenso
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Piotr Stramowski, Maria Kania, Paweł Królikowski
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/513347/shiki-oriori-sabores-de-la-juventud">
+               <div class="Image">
+                <span class="Year">
+                 2018
+                </span>
+                <img alt="Shiki Oriori: Sabores de la juventud" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmYpEbF8FrAzk5aLcdC5U8dQQBRR.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmYpEbF8FrAzk5aLcdC5U8dQQBRR.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmYpEbF8FrAzk5aLcdC5U8dQQBRR.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Shiki Oriori: Sabores de la juventud
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Shiki Oriori: Sabores de la juventud
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.9
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 14min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2018
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Recuerdos evocados por un cuenco de fideos, el declive de una hermosa modelo y un agridulce primer amor. Tres muestras d
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Animación
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Romance
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Drama
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 坂泰斗, 伊瀬茉莉也, 寿美菜子
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li class="TPostMv">
+             <div class="TPost C hentry">
+              <a href="/pelicula/480857/madame-curie">
+               <div class="Image">
+                <span class="Year">
+                 2020
+                </span>
+                <img alt="Madame Curie" data-nimg="future" decoding="async" height="267" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5e1EjX5j24enIyaaUOq2pnkKy2N.jpg&amp;w=384&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5e1EjX5j24enIyaaUOq2pnkKy2N.jpg&amp;w=256&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F5e1EjX5j24enIyaaUOq2pnkKy2N.jpg&amp;w=384&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 178 267'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="178"/>
+               </div>
+               <span class="Title block">
+                Madame Curie
+               </span>
+              </a>
+              <div class="TPMvCn">
+               <div class="Title">
+                Madame Curie
+               </div>
+               <p class="Info">
+                <span class="Vote AAIco-star">
+                 6.61
+                </span>
+                <span class="Time AAIco-access_time">
+                 1h 49min
+                </span>
+                <span class="Date AAIco-date_range">
+                 2020
+                </span>
+               </p>
+               <div class="Description">
+                <p>
+                 Cuenta la historia de la ganadora del Premio Nobel Marie Curie y sus extraordinarios descubrimientos científicos, a trav
+                </p>
+                <p class="Genre AAIco-movie_creation">
+                 <span>
+                  Género:
+                 </span>
+                 <!-- -->
+                 Drama
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Romance
+                 <!-- -->
+                 ,
+                 <!-- -->
+                 Historia
+                </p>
+                <p class="Actors AAIco-person">
+                 <span>
+                  Actores:
+                 </span>
+                 <!-- -->
+                 Rosamund Pike, Sam Riley, Aneurin Barnard
+                 <!-- -->
+                 ...
+                </p>
+               </div>
+              </div>
+             </div>
+            </li>
+           </ul>
+          </div>
+          <nav class="navigation pagination">
+           <div class="nav-links">
+            <span class="page-link current">
+             1
+            </span>
+            <span class="extend">
+             ...
+            </span>
+            <span class="page-link">
+             636
+            </span>
+            <a class="next page-numbers" href="/peliculas/page/2">
+             <svg class="fill-white ic cc-c" viewbox="0 0 448 512">
+              <path d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z">
+              </path>
+             </svg>
+            </a>
+           </div>
+          </nav>
+         </section>
+        </main>
+        <aside class="widget-area">
+         <aside class="widget-area">
+          <section class="peli_movies widget_languages Wdgt">
+           <h3 class="widget-title">
+            Películas Destacadas
+           </h3>
+           <ul class="aa-nv dfx tac">
+            <li class="fg1">
+             <a class="on">
+              Día
+             </a>
+            </li>
+            <li class="fg1">
+             <a class="">
+              Semana
+             </a>
+            </li>
+           </ul>
+           <div class="aa-cn" id="aa-movies">
+            <div class="aa-tb on">
+             <ul class="MovieList">
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/1226578/longlegs-coleccionista-de-almas">
+                 <div class="Image">
+                  <img alt="Longlegs: Coleccionista de almas" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Longlegs: Coleccionista de almas
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  6.71
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 41min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/1022789/intensamente-2">
+                 <div class="Image">
+                  <img alt="IntensaMente 2" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  IntensaMente 2
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.63
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 36min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/718821/tornados">
+                 <div class="Image">
+                  <img alt="Tornados" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Tornados
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.08
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  2h 03min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/945961/alien-romulus">
+                 <div class="Image">
+                  <img alt="Alien: Romulus" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Alien: Romulus
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.35
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 59min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/704239/el-sindicato">
+                 <div class="Image">
+                  <img alt="El Sindicato" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  El Sindicato
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  6.33
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 49min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+             </ul>
+            </div>
+            <div class="aa-tb">
+             <ul class="MovieList">
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/718821/tornados">
+                 <div class="Image">
+                  <img alt="Tornados" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Tornados
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.08
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  2h 03min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/1022789/intensamente-2">
+                 <div class="Image">
+                  <img alt="IntensaMente 2" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FaQnbNiadeGzGSjWLaXyeNxpAUIx.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  IntensaMente 2
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.63
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 36min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/945961/alien-romulus">
+                 <div class="Image">
+                  <img alt="Alien: Romulus" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F8PYqGSd8MOm5ce8io4qNSAiSExW.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Alien: Romulus
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.35
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 59min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/533535/deadpool-and-wolverine">
+                 <div class="Image">
+                  <img alt="Deadpool &amp; Wolverine" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  Deadpool &amp; Wolverine
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  7.9
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  2h 08min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+              <li>
+               <div class="TPost A">
+                <a href="/pelicula/704239/el-sindicato">
+                 <div class="Image">
+                  <img alt="El Sindicato" data-nimg="future" decoding="async" height="120" layout="intrinsic" loading="lazy" src="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg&amp;w=256&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 80 120'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="80"/>
+                 </div>
+                 <div class="Title">
+                  El Sindicato
+                 </div>
+                </a>
+                <p class="Info Infowdgt">
+                 <span class="Vote AAIco-star">
+                  6.33
+                 </span>
+                 <span class="Time AAIco-access_time">
+                  1h 49min
+                 </span>
+                 <span class="Date AAIco-date_range">
+                  2024
+                 </span>
+                </p>
+               </div>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </section>
+         </aside>
+        </aside>
+       </div>
+      </div>
+     </div>
+     <footer class="ft ok">
+      <div class="cont dfxb alg-cr">
+       <img alt="Cuevana" class="logo-ft" data-nimg="future" decoding="async" height="60" loading="lazy" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=640&amp;q=75" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcuevana3.01e819b6.png&amp;w=640&amp;q=75 2x" style="color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(&quot;data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 8 2'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='1'/%3E%3C/filter%3E%3Cimage filter='url(%23b)' x='0' y='0' height='100%25' width='100%25' href='data:image/gif;base64,R0lGODlhAQABAPAAAAIJIv///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='/%3E%3C/svg%3E&quot;)" width="240"/>
+       <nav class="dfxb jst-sb fg1 alg-cr">
+        <ul class="mnft dfx jst-cr">
+         <li>
+          <a href="/terminos-y-condiciones" title="Terminos y Condiciones">
+           Términos y Condiciones
+          </a>
+         </li>
+        </ul>
+        <ul class="smft dfx jst-cr">
+         <li>
+          <a class="icof" href="https://www.facebook.com/Cuevana3-102611315725359" target="_blank" title="Link a Facebook">
+           <svg alt="Logo Facebook" viewbox="0 0 320 512" xmlns="http://www.w3.org/2000/svg">
+            <path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
+            </path>
+           </svg>
+          </a>
+         </li>
+         <li>
+          <a class="icof" href="https://twitter.com/Cuevana3Real" target="_blank" title="Link a Twitter">
+           <svg alt="Logo Twitter" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+            <path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z">
+            </path>
+           </svg>
+          </a>
+         </li>
+        </ul>
+       </nav>
+      </div>
+      <p class="copy tac">
+       © 2007 Cuevana 3 Peliculas Online, Todos los derechos reservados.
+      </p>
+     </footer>
+    </div>
+    <ins class="01d94676" data-cp-domain="482d7705472b981e481d9fec3870b604|99|cuevana.biz" data-cp-host="482d7705472b981e481d9fec3870b604|99|cuevana.biz" data-key="81d3823bb8efee7c3bfec7fff1e3a048">
+    </ins>
+    <ins class="01d94676" data-cp-domain="37097cad0d42436db1131930350b25c3|3|cuevana.biz" data-cp-host="37097cad0d42436db1131930350b25c3|3|cuevana.biz" data-key="1bdd93436a720a67d1524ad871c3c40d">
+    </ins>
+   </div>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">
+   {"props":{"pageProps":{"movies":[{"titles":{"name":"Diane"},"rate":{"average":0},"images":{"poster":null,"backdrop":null},"overview":"","TMDbId":"1338458","genres":[],"cast":{"acting":[]},"runtime":91,"releaseDate":"1970-01-01T00:00:00.000Z","url":{"slug":"movies/1338458/diane"}},{"titles":{"name":"War Game"},"rate":{"average":7},"images":{"poster":"https://image.tmdb.org/t/p/original/czqalW2HzjiUWWWvM1F7W3xCLHv.jpg","backdrop":"https://image.tmdb.org/t/p/original/6UudvzMauFUWsoj5FOeLwASU9aT.jpg"},"overview":"A bipartisan group of U.S. defense, intelligence, and elected policymakers spanning five presidential administrations participate in an unscripted role-play exercise in which they confront a political coup backed by rogue members of the U.S. military, in the wake of a contested presidential election.","TMDbId":"1186672","genres":[{"id":"99","name":"Documental"}],"cast":{"acting":[{"id":"2453099","name":"Steve Bullock"},{"id":"1230046","name":"Wesley Clark"},{"id":"2826881","name":"Heidi Heitkamp"},{"id":"4882626","name":"Linda Singh"},{"id":"3360269","name":"Alexander Vindman"},{"id":"3529892","name":"Doug Jones"},{"id":"4645063","name":"Elizabeth Neumann"},{"id":"4882634","name":"Janessa Goldbeck"},{"id":"53916","name":"Ralph Brown"},{"id":"4053984","name":"Kristofer Goldsmith"}]},"runtime":94,"releaseDate":"2024-08-02T00:00:00.000Z","url":{"slug":"movies/1186672/war-game"}},{"titles":{"name":"Super Papa"},"rate":{"average":5.6},"images":{"poster":"https://image.tmdb.org/t/p/original/5zCEsEhpw5sPkLYPx7kxDHKDhVF.jpg","backdrop":"https://image.tmdb.org/t/p/original/qNyJR0OnNf85mh9R6jn0O8RBnEj.jpg"},"overview":"","TMDbId":"1141233","genres":[{"id":"35","name":"Comedia"},{"id":"10751","name":"Familia"}],"cast":{"acting":[{"id":"1332481","name":"Ahmed Sylla"},{"id":"4115633","name":"Ismaël Bangoura"},{"id":"1603424","name":"Julien Pestel"},{"id":"1448396","name":"Louise Coldefy"},{"id":"54675","name":"Zabou Breitman"},{"id":"1192468","name":"Claudia Tagbo"},{"id":"4545771","name":"Sophie Vannier"},{"id":"4868940","name":"Simon Zibi"},{"id":"2702625","name":"Léa Lando"},{"id":"2702625","name":"Léa Lando"}]},"runtime":0,"releaseDate":"2024-08-07T00:00:00.000Z","url":{"slug":"movies/1141233/super-papa"}},{"titles":{"name":"My Penguin Friend"},"rate":{"average":0},"images":{"poster":"https://image.tmdb.org/t/p/original/35RZnTLKUZ9WMx1y2RZC9rhDcwU.jpg","backdrop":"https://image.tmdb.org/t/p/original/naEW44DdgGlQcZBnRIw9V3anywj.jpg"},"overview":"Inspired by a true story; an enchanting adventure about a lost penguin rescued from an oil spill, who transforms the life of a heartbroken fisherman. They soon become unlikely friends, so bonded that even the vast ocean cannot divide them.","TMDbId":"1159799","genres":[{"id":"10751","name":"Familia"},{"id":"18","name":"Drama"},{"id":"12","name":"Aventura"}],"cast":{"acting":[{"id":"1003","name":"Jean Reno"},{"id":"270","name":"Adriana Barraza"},{"id":"1208258","name":"Nicolás Francella"},{"id":"1694299","name":"Alexia Moyano"},{"id":"2603922","name":"Rocío Hernández"},{"id":"1643624","name":"Ravel Cabral"},{"id":"1159166","name":"Pedro Caetano"},{"id":"2035537","name":"Amanda Magalhães"},{"id":"3730561","name":"Juan Queiroz"},{"id":"1759957","name":"Wilson Rabelo"},{"id":"2279438","name":"Rafael Pimenta"},{"id":"1831330","name":"José Trassi"},{"id":"3843939","name":"Roberto Borenstein"},{"id":"2148422","name":"Maurício Xavier"}]},"runtime":97,"releaseDate":"2024-08-07T00:00:00.000Z","url":{"slug":"movies/1159799/my-penguin-friend"}},{"titles":{"name":"Largo Winch : Le prix de l’argent"},"rate":{"average":6.3},"images":{"poster":"https://image.tmdb.org/t/p/original/jh4YOKHHg31NAx7v6voH5CyOS8F.jpg","backdrop":"https://image.tmdb.org/t/p/original/sQbFupSWM9wUdPj96NZNUOFSP5.jpg"},"overview":"Largo Winch, devastated by the kidnapping of his son, realizes that if he finds those responsible for his bankruptcy, maybe he'll see his son again.","TMDbId":"1000075","genres":[{"id":"28","name":"Acción"},{"id":"12","name":"Aventura"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"25089","name":"Tomer Sisley"},{"id":"17051","name":"James Franco"},{"id":"53429","name":"Clotilde Hesme"},{"id":"3255597","name":"Elise Tilloloy"},{"id":"81681","name":"Denis O'Hare"},{"id":"2878561","name":"Narayan David Hecter"},{"id":"82420","name":"Koen De Bouw"},{"id":"1270141","name":"Supachai Girdsuwan"},{"id":"3595737","name":"Banyong Phoonsap"},{"id":"4096410","name":"Liliya Atanasova"},{"id":"130360","name":"Sonia Vachon"},{"id":"3864438","name":"Adèle Sierra"},{"id":"1183778","name":"Anthony Pho"},{"id":"2675992","name":"Mav Kang"}]},"runtime":100,"releaseDate":"2024-07-31T00:00:00.000Z","url":{"slug":"movies/1000075/largo-winch-le-prix-de-largent"}},{"titles":{"name":"Dead Whisper"},"rate":{"average":4.3},"images":{"poster":"https://image.tmdb.org/t/p/original/eh4B3ABVhsx5w9p5eNbtwYx2YUO.jpg","backdrop":"https://image.tmdb.org/t/p/original/98KpuBKxEXdyeLPsMLBoLNKLzb9.jpg"},"overview":"Elliot Campbell, un abogado de Cape Cod, se siente atraído por una isla misteriosa donde siente la tentación de reunirse con su hija muerta, pero con el riesgo de perder su alma.","TMDbId":"1261352","genres":[{"id":"27","name":"Terror"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1570322","name":"Samuel Dunning"},{"id":"1694619","name":"Codey Gillum"},{"id":"4601496","name":"Samantha Hill"},{"id":"1694620","name":"Chris Goodwin"},{"id":"4601498","name":"Dhane Ross"},{"id":"4774403","name":"Rob Evan"}]},"runtime":90,"releaseDate":"2024-07-05T00:00:00.000Z","url":{"slug":"movies/1261352/dead-whisper"}},{"titles":{"name":"Before Dawn"},"rate":{"average":5.5},"images":{"poster":"https://image.tmdb.org/t/p/original/a51x5NWJqdzWbFA58dwRgwfgQDj.jpg","backdrop":"https://image.tmdb.org/t/p/original/xwcuaxlajh5fr0e2P9UCfn1m2JR.jpg"},"overview":"Inspired by the real-life diary entries of local ANZACs, the feature film details the untold story of some of Australia’s greatest military victories.","TMDbId":"981063","genres":[{"id":"18","name":"Drama"},{"id":"36","name":"Historia"},{"id":"10752","name":"Guerra"}],"cast":{"acting":[{"id":"1313583","name":"Levi Miller"},{"id":"1394427","name":"Travis Jeffery"},{"id":"1198286","name":"Ed Oxenbould"},{"id":"1231106","name":"Stephen Peacocke"},{"id":"190856","name":"Myles Pollard"},{"id":"2551325","name":"Tim Franklin"},{"id":"1895317","name":"Jordan Dulieu"},{"id":"4843269","name":"Darren Jasper"},{"id":"4834331","name":"Oscar Millar"},{"id":"3650689","name":"Lawrence Murphy"},{"id":"3620392","name":"Isaac Davies"},{"id":"3620393","name":"Noah D'Annunzio"},{"id":"2508651","name":"Peter Sullivan"},{"id":"3003719","name":"Peter Williams"},{"id":"4843282","name":"Robbie Anderson"},{"id":"4555851","name":"Paul Walenkamp"},{"id":"2109964","name":"Mitchell Page"},{"id":"3334445","name":"Alexander Arco"},{"id":"3400083","name":"Cody Brown"},{"id":"4843319","name":"Jarrad Lewis"},{"id":"4843328","name":"Jeremy Pickett"},{"id":"4843332","name":"Jack Flanagan"},{"id":"4843335","name":"Aodhan Guy"},{"id":"4843336","name":"Jason Burch"},{"id":"1349234","name":"Jacob Clayton"},{"id":"3486849","name":"Aiden McFaull"},{"id":"4843356","name":"Ashley Garner"}]},"runtime":101,"releaseDate":"2024-04-04T00:00:00.000Z","url":{"slug":"movies/981063/before-dawn"}},{"titles":{"name":"El Cuervo"},"rate":{"average":5.57},"images":{"poster":"https://image.tmdb.org/t/p/original/X9iFHeIYgfqoZImvdidx8b9v4R.jpg","backdrop":"https://image.tmdb.org/t/p/original/qrnt6q3yzK7k9dN7IjLOkI6rZ6O.jpg"},"overview":"Cuando las almas gemelas, Eric y Shelly, son brutalmente asesinadas, los demonios de su oscuro pasado los alcanzan.  Ante la oportunidad de salvar a su verdadero amor sacrificándose, Eric se propone vengarse despiadadamente de sus asesinos, atravesando los mundos de los vivos y los muertos para arreglar las cosas equivocadas.","TMDbId":"957452","genres":[{"id":"28","name":"Acción"},{"id":"14","name":"Fantasía"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"137905","name":"Bill Skarsgård"},{"id":"1503200","name":"FKA Twigs"},{"id":"6413","name":"Danny Huston"},{"id":"212815","name":"Laura Birn"},{"id":"1674734","name":"Jordan Bolger"},{"id":"3578843","name":"Isabella Wei"},{"id":"20667","name":"Sami Bouajila"},{"id":"993074","name":"David Bowles"},{"id":"1857604","name":"Dukagjin Podrimaj"},{"id":"4120723","name":"Paul Maynard"},{"id":"1394090","name":"Jim High"},{"id":"3400508","name":"Sebastian Orozco"},{"id":"1817100","name":"Kim Girschner"},{"id":"3950317","name":"Baha Chbani"},{"id":"4557256","name":"Petr Matousek"},{"id":"1179811","name":"David Máj"},{"id":"1883800","name":"Daniel Pietrucha"},{"id":"3875881","name":"Anna Marhoulová"},{"id":"142020","name":"Laurent Buson"},{"id":"3524369","name":"Jacob Griffin"},{"id":"2415827","name":"Jonas Baum"}]},"runtime":111,"releaseDate":"2024-08-21T00:00:00.000Z","url":{"slug":"movies/957452/el-cuervo"}},{"titles":{"name":"Parpadea dos veces"},"rate":{"average":7},"images":{"poster":"https://image.tmdb.org/t/p/original/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg","backdrop":"https://image.tmdb.org/t/p/original/dTaqzXA1auKRUjHPQjR3u0W7Gfl.jpg"},"overview":"Cuando el multimillonario tecnológico Slater King conoce a la camarera Frida en su gala de recaudación de fondos, la invita a unirse a él y a sus amigos en unas vacaciones de ensueño en su isla privada. Sin embargo empiezan a suceder cosas extrañas, así como Frida cuestiona su realidad.","TMDbId":"840705","genres":[{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1537686","name":"Naomi Ackie"},{"id":"38673","name":"Channing Tatum"},{"id":"2224","name":"Christian Slater"},{"id":"35548","name":"Simon Rex"},{"id":"1371297","name":"Adria Arjona"},{"id":"6677","name":"Kyle MacLachlan"},{"id":"9640","name":"Haley Joel Osment"},{"id":"16935","name":"Geena Davis"},{"id":"61178","name":"Alia Shawkat"},{"id":"3560034","name":"Levon Hawke"},{"id":"2599167","name":"Trew Mullen"},{"id":"1985","name":"Saul Williams"},{"id":"3514776","name":"Liz Caribel Sierra"},{"id":"3769862","name":"Cris Costa"},{"id":"78328","name":"Julian Sedgwick"},{"id":"37153","name":"Zoë Kravitz"},{"id":"37153","name":"Zoë Kravitz"},{"id":"37153","name":"Zoë Kravitz"},{"id":"3022365","name":"Tiffany Persons"},{"id":"38673","name":"Channing Tatum"}]},"runtime":103,"releaseDate":"2024-08-21T00:00:00.000Z","url":{"slug":"movies/840705/parpadea-dos-veces"}},{"titles":{"name":"Emilia Pérez"},"rate":{"average":7.76},"images":{"poster":"https://image.tmdb.org/t/p/original/r5sYdlJFys6YETQb63lvRR4fKEL.jpg","backdrop":"https://image.tmdb.org/t/p/original/g3Xnh179fPVI0LiZeNoF2WW9Bib.jpg"},"overview":"Rita, una infravalorada abogada que trabaja para un gran bufete más interesado en librar a los criminales de la cárcel que en llevarlos ante la justicia, es contratada por el líder de una organización criminal.","TMDbId":"974950","genres":[{"id":"18","name":"Drama"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1505938","name":"Karla Sofía Gascón"},{"id":"8691","name":"Zoe Saldaña"},{"id":"77948","name":"Selena Gómez"},{"id":"983710","name":"Adriana Paz"},{"id":"25616","name":"Edgar Ramírez"},{"id":"6696","name":"Mark Ivanir"},{"id":"3337577","name":"Eduardo Aladro"},{"id":"4725740","name":"Emiliano Hasan"},{"id":"220575","name":"James Gerard"},{"id":"2941677","name":"Eric Geynes"},{"id":"4060696","name":"Agathe Bokja"},{"id":"3780626","name":"Chun-Ting Lin"},{"id":"1886845","name":"Stéphane Ly-Cuong"},{"id":"2828736","name":"Line Phé"},{"id":"3607012","name":"Pascal Toussirot"},{"id":"3747650","name":"Karla Lazo"},{"id":"3594551","name":"Alonso Venegas-Flores"},{"id":"4148898","name":"Shiraz Tzarfati"},{"id":"4148899","name":"Jonas Paz-Benavides"},{"id":"4148901","name":"Shuuko Calderón"},{"id":"4725738","name":"Lucas Varoclier"},{"id":"4725739","name":"Daniel Velasco-Acosta"},{"id":"3695743","name":"Anabel Lopez"},{"id":"4759023","name":"Gaël Murgia-Fur"},{"id":"4759024","name":"Tirso Pietriga"},{"id":"4759028","name":"Magali Brito"},{"id":"4759029","name":"Sébastien Fruit"},{"id":"3514685","name":"Amedéo Cazzella"},{"id":"2255000","name":"Ortos Soyuz"},{"id":"1897684","name":"Estelle Darnault"}]},"runtime":132,"releaseDate":"2024-08-21T00:00:00.000Z","url":{"slug":"movies/974950/emilia-perez"}},{"titles":{"name":"Longlegs: Coleccionista de almas"},"rate":{"average":6.71},"images":{"poster":"https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg","backdrop":"https://image.tmdb.org/t/p/original/Avtx5jsdPuDa091jvx2Lye3ygke.jpg"},"overview":"El agente del FBI, Lee Harker, es asignado a un caso sin resolver de un asesino en serie que da giros inesperados, revelando pruebas de ocultismo. Sin embargo, Harker descubre una conexión personal con el asesino y debe detenerlo antes de que ataque.","TMDbId":"1226578","genres":[{"id":"80","name":"Crimen"},{"id":"27","name":"Terror"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1094091","name":"Maika Monroe"},{"id":"2963","name":"Nicolas Cage"},{"id":"56871","name":"Blair Underwood"},{"id":"3128","name":"Alicia Witt"},{"id":"1840725","name":"Michelle Choi-Lee"},{"id":"1002369","name":"Dakota Daulby"},{"id":"4686681","name":"Lauren Acala"},{"id":"934289","name":"Kiernan Shipka"},{"id":"4686689","name":"Maïla Hosie"},{"id":"933264","name":"Jason Day"},{"id":"1075842","name":"Lisa Chandler"},{"id":"2855445","name":"Ava Kelders"},{"id":"3177922","name":"Rryla McIntosh"},{"id":"1392937","name":"Carmel Amit"},{"id":"2675284","name":"Shafin Karim"},{"id":"4785366","name":"Trey Helten"},{"id":"61187","name":"Daniel Bacon"},{"id":"1298187","name":"Vanessa Walsh"},{"id":"2505813","name":"Beatrix Perkins"},{"id":"1781693","name":"Scott Nicholson"},{"id":"25389","name":"Peter Bryant"},{"id":"3652048","name":"Hazel Bartlett-Sias"},{"id":"2840848","name":"Marlea Cleveland"},{"id":"4785367","name":"Melissa Shim"},{"id":"1882939","name":"Malcolm Masters"},{"id":"53718","name":"Erin Boyes"},{"id":"3237320","name":"Lumen Beltran"},{"id":"2412181","name":"Anita Wittenberg"},{"id":"4071021","name":"Michelle Cyr"},{"id":"2963","name":"Nicolas Cage"},{"id":"1429069","name":"Mike Klemak"}]},"runtime":101,"releaseDate":"2024-07-10T00:00:00.000Z","url":{"slug":"movies/1226578/longlegs-coleccionista-de-almas"}},{"titles":{"name":"Por qué me Mataron?"},"rate":{"average":5.98},"images":{"poster":"https://image.tmdb.org/t/p/original/5x95riaxPFC8SUQTit4ZkkqxXh.jpg","backdrop":"https://image.tmdb.org/t/p/original/oamFPL6EMqVNCfF152KiMfrWsXp.jpg"},"overview":"El límite entre la justicia y la venganza se desdibuja cuando una familia destrozada usa las redes sociales para encontrar a los asesinos de la joven Crystal Theobald.","TMDbId":"810731","genres":[{"id":"99","name":"Documental"},{"id":"80","name":"Crimen"}],"cast":{"acting":[{"id":"3054884","name":"Belinda Lane"}]},"runtime":83,"releaseDate":"2021-04-07T00:00:00.000Z","url":{"slug":"movies/810731/por-que-me-mataron"}},{"titles":{"name":"Zombie a los 17"},"rate":{"average":5.8},"images":{"poster":"https://image.tmdb.org/t/p/original/tPdbiPceitdmvPLiNSvLQF0yJg8.jpg","backdrop":"https://image.tmdb.org/t/p/original/41zvHPzKjUZlXKtkuh7M9kUqNwL.jpg"},"overview":"Tia Scott es una adolescente de 17 años que tuvo una vida bastante normal hasta que comienza a mostrar síntomas extraños y se da cuenta que se ha contagiado un virus que la está convirtiendo en zombie. Desesperada por encontrar una cura, solo confía en Flynn, un autodenominado experto en lo paranormal. Pero la vida de Tia se vuelve aún peor cuando un amigo de su novio es asesinado.","TMDbId":"557294","genres":[{"id":"53","name":"Suspenso"},{"id":"27","name":"Terror"}],"cast":{"acting":[{"id":"166930","name":"Laurie Fortier"},{"id":"1817018","name":"Celeste Desjardins"},{"id":"1469491","name":"Seamus Patterson"},{"id":"1857464","name":"Carson MacCormac"},{"id":"2120213","name":"Michael Gordin Shore"},{"id":"1689143","name":"Alanna Bale"},{"id":"132721","name":"Cinthia Burke"}]},"runtime":82,"releaseDate":"2018-10-27T00:00:00.000Z","url":{"slug":"movies/557294/zombie-a-los-17"}},{"titles":{"name":"Otra forma de vencer"},"rate":{"average":5.38},"images":{"poster":"https://image.tmdb.org/t/p/original/osut731qKshSV7wc4VQ7VkIlGVW.jpg","backdrop":"https://image.tmdb.org/t/p/original/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg"},"overview":"Victoria es una madre joven que intenta dejar atrás su oscuro pasado como mensajero de drogas ruso, pero el policía retirado Damon obliga a Victoria a cumplir sus órdenes al mantener a su hija como rehén. Ahora, Victoria debe usar armas, agallas y una motocicleta para acabar con una serie de gánsteres violentos, o tal vez nunca vuelva a ver a su hijo.","TMDbId":"804435","genres":[{"id":"28","name":"Acción"},{"id":"12","name":"Aventura"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1246972","name":"Ruby Rose"},{"id":"192","name":"Morgan Freeman"},{"id":"41687","name":"Patrick Muldoon"},{"id":"23902","name":"Julie Lott"},{"id":"2860533","name":"Ekaterina Baker"},{"id":"226344","name":"Joel Michaely"},{"id":"1371878","name":"Miles Doleac"},{"id":"2170918","name":"Chris Mullinax"},{"id":"76674","name":"Ele Bardha"},{"id":"1041562","name":"Paul Sampson"},{"id":"2743359","name":"Dylan Flashner"},{"id":"1638108","name":"Bill Luckett"},{"id":"2425569","name":"Juju Journey Brener"},{"id":"1129417","name":"Reginald Robinson"},{"id":"3005529","name":"Gregory Tremain Merrell"},{"id":"1052648","name":"Leonard Waldner"},{"id":"23902","name":"Julie Lott"}]},"runtime":96,"releaseDate":"2021-04-16T00:00:00.000Z","url":{"slug":"movies/804435/otra-forma-de-vencer"}},{"titles":{"name":"Contigo a muerte"},"rate":{"average":6.73},"images":{"poster":"https://image.tmdb.org/t/p/original/vCaAcunvp2yabxG5I1HACKbKw1p.jpg","backdrop":"https://image.tmdb.org/t/p/original/dUbtr5cXaCyFByz41ch806Omyj9.jpg"},"overview":"Su esposo abusivo ha muerto a manos de una amiga lesbiana que haría cualquier cosa por ella. Ahora huyen para ponerse a salvo.","TMDbId":"796849","genres":[{"id":"18","name":"Drama"},{"id":"10749","name":"Romance"},{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"226711","name":"Kiko Mizuhara"},{"id":"2023708","name":"Honami Sato"},{"id":"592147","name":"真木よう子"},{"id":"43662","name":"Anne Suzuki"},{"id":"1650713","name":"田中俊介"},{"id":"587661","name":"田中哲司"},{"id":"1960999","name":"Sara Minami"},{"id":"3053526","name":"Yui Uemura"},{"id":"1738058","name":"新納慎也"},{"id":"553328","name":"Setsuko Karasuma"},{"id":"3127448","name":"Jason Brock"},{"id":"3743580","name":"Harmeet Obhrai"},{"id":"2531057","name":"Artemis Snow"}]},"runtime":142,"releaseDate":"2021-04-15T00:00:00.000Z","url":{"slug":"movies/796849/contigo-a-muerte"}},{"titles":{"name":"Twist"},"rate":{"average":5.9},"images":{"poster":"https://image.tmdb.org/t/p/original/7sXthW46RwmPBdacGHnhOzLv40d.jpg","backdrop":"https://image.tmdb.org/t/p/original/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg"},"overview":"Del soñador directivo Martin Owen, Twist es el tradicional cuento de Hables Dicken actualizado de forma apasionante en el corazón del Londres moderno, donde un conjunto de jóvenes estafadores inteligentes planean el atraco del siglo para conseguir la mejor ganancia. El artista Oliver se implica con un conjunto de jóvenes estafadores, dirigido por el profesor ladrón Fagin.","TMDbId":"644083","genres":[{"id":"80","name":"Crimen"},{"id":"18","name":"Drama"},{"id":"28","name":"Acción"}],"cast":{"acting":[{"id":"2445313","name":"Raff Law"},{"id":"3895","name":"Michael Caine"},{"id":"17286","name":"Lena Headey"},{"id":"1715074","name":"Sophie Simnett"},{"id":"1089873","name":"Rita Ora"},{"id":"80536","name":"David Walliams"},{"id":"1363086","name":"Franz Drameh"},{"id":"76242","name":"Noel Clarke"},{"id":"175462","name":"Leigh Francis"},{"id":"142289","name":"Jason Maza"},{"id":"3326851","name":"Dominic Di Tommaso"},{"id":"2220157","name":"Samuel Leakey"},{"id":"1811457","name":"Sally Collett"},{"id":"3490947","name":"Finley Pearson"},{"id":"2314298","name":"Jade Alleyne"},{"id":"1781363","name":"Adam J. Bernard"},{"id":"1560046","name":"Elliot James Langridge"},{"id":"1999735","name":"Decca Heggie"},{"id":"1448668","name":"Stephen Uppal"},{"id":"2198203","name":"Tanya Burr"},{"id":"229313","name":"Nick Nevern"},{"id":"83137","name":"Rick Warden"},{"id":"1119412","name":"Ian Sharp"},{"id":"1056072","name":"Ali Cook"},{"id":"3490952","name":"Taylor Maza"},{"id":"3490954","name":"Jack Dean"},{"id":"2447815","name":"Joanna Shegera"},{"id":"3291978","name":"Robert Ryan"},{"id":"1811457","name":"Sally Collett"},{"id":"1337129","name":"Michael Lindley"},{"id":"84611","name":"Tim Powell"},{"id":"2911086","name":"Troy Mclaughlin"},{"id":"1776956","name":"Shahid Malik"},{"id":"2280541","name":"JJ Bee"},{"id":"4149053","name":"Wolf Wasserman"},{"id":"1080066","name":"Jay Stevens"},{"id":"2523535","name":"Peter Guiney"},{"id":"1553438","name":"Pamela Forster"},{"id":"1811457","name":"Sally Collett"},{"id":"3043241","name":"Rebecca Robinson"},{"id":"3043241","name":"Rebecca Robinson"},{"id":"1089873","name":"Rita Ora"},{"id":"1475184","name":"Elio Leoni-Sceti"},{"id":"3376396","name":"Aavi Haas"},{"id":"119421","name":"Matt Cohen"},{"id":"207972","name":"Craig Blair"}]},"runtime":92,"releaseDate":"2021-01-22T00:00:00.000Z","url":{"slug":"movies/644083/twist"}},{"titles":{"name":"Fuerza Trueno"},"rate":{"average":5.51},"images":{"poster":"https://image.tmdb.org/t/p/original/e9r4aLl7OAXdGK49u5oEjlbHKA3.jpg","backdrop":"https://image.tmdb.org/t/p/original/z7HLq35df6ZpRxdMAE0qE3Ge4SJ.jpg"},"overview":"En un mundo aterrorizado por los supervillanos, una mujer ha desarrollado la capacidad de dar superpoderes a las personas. Pero todo se complica cuando la científica Emily Stanton, accidentalmente, dota a su mejor amiga de increíbles habilidades. Desde ese momento las dos mujeres serán las nuevas superheróinas de la ciudad de Chicago.","TMDbId":"615678","genres":[{"id":"35","name":"Comedia"},{"id":"28","name":"Acción"},{"id":"12","name":"Aventura"},{"id":"878","name":"Ciencia ficción"}],"cast":{"acting":[{"id":"55536","name":"Melissa McCarthy"},{"id":"6944","name":"Octavia Spencer"},{"id":"23532","name":"Jason Bateman"},{"id":"21127","name":"Bobby Cannavale"},{"id":"139820","name":"Pom Klementieff"},{"id":"6832","name":"Melissa Leo"},{"id":"1381987","name":"Taylor Mosby"},{"id":"59845","name":"Marcella Lowery"},{"id":"168658","name":"Melissa Ponzio"},{"id":"170820","name":"Ben Falcone"},{"id":"2657504","name":"Nate Hitpas"},{"id":"1901785","name":"Jevon White"},{"id":"170366","name":"David Storrs"},{"id":"14721","name":"Kevin Dunn"},{"id":"1540696","name":"Henry Bazemore Jr."},{"id":"1221605","name":"Steve Mallory"},{"id":"2211598","name":"Mia Kaplan"},{"id":"1654947","name":"Trevor Larcom"},{"id":"2004111","name":"Braxton Bjerken"},{"id":"51331","name":"Tyrel Jackson Williams"},{"id":"461542","name":"Sarah Baker"},{"id":"1502869","name":"Isaac Hughes"},{"id":"2567651","name":"Brendan Jennings"},{"id":"1705792","name":"John Crow"},{"id":"1425479","name":"Valerie Sue Love"},{"id":"2858871","name":"Jenna Perusich"},{"id":"190423","name":"Damon Jones"},{"id":"1381673","name":"Courtney Patterson"},{"id":"3347963","name":"Vivian Falcone"},{"id":"4519902","name":"Georgette Falcone"},{"id":"170820","name":"Ben Falcone"},{"id":"170820","name":"Ben Falcone"},{"id":"55536","name":"Melissa McCarthy"},{"id":"170820","name":"Ben Falcone"},{"id":"1221605","name":"Steve Mallory"}]},"runtime":107,"releaseDate":"2021-04-09T00:00:00.000Z","url":{"slug":"movies/615678/fuerza-trueno"}},{"titles":{"name":"Terror en Alta Mar"},"rate":{"average":6.15},"images":{"poster":"https://image.tmdb.org/t/p/original/101kemQtied9Ny7SjC4i0oGFvKV.jpg","backdrop":"https://image.tmdb.org/t/p/original/kz6JNUDhMx78QuZlztp0UHmz5xg.jpg"},"overview":"La tripulación de una embarcación irlandesa, abandonada en el mar, lucha por su vida contra un parásito que crece en su suministro de agua.","TMDbId":"507441","genres":[{"id":"53","name":"Suspenso"},{"id":"27","name":"Terror"},{"id":"18","name":"Drama"},{"id":"878","name":"Ciencia ficción"},{"id":"9648","name":"Misterio"}],"cast":{"acting":[{"id":"1345419","name":"Hermione Corfield"},{"id":"1601435","name":"Ardalan Esmaili"},{"id":"933272","name":"Olwen Fouéré"},{"id":"1674731","name":"Jack Hickey"},{"id":"2140560","name":"Elie Bouakaze"},{"id":"15336","name":"Dougray Scott"},{"id":"935","name":"Connie Nielsen"},{"id":"116615","name":"Dag Malmberg"}]},"runtime":94,"releaseDate":"2020-03-06T00:00:00.000Z","url":{"slug":"movies/507441/terror-en-alta-mar"}},{"titles":{"name":"Rise of the Mummy"},"rate":{"average":0},"images":{"poster":"https://image.tmdb.org/t/p/original/3ygfjQoaLR4Orn8TmrcY0Th1cpZ.jpg","backdrop":null},"overview":"A group of friends seize the opportunity to leave a fancy dress party when they learn their host has a stash of drugs at his lock up. They break in to discover an even more lucrative treasure, gold, millions of pounds worth of gold. As they begin to steal the valuables they discover it has a an even greater value and is the key to keeping an ancient evil at bay - or at least it was keeping it at bay, until they disturbed it.","TMDbId":"796734","genres":[{"id":"27","name":"Terror"}],"cast":{"acting":[]},"runtime":87,"releaseDate":"2020-04-03T00:00:00.000Z","url":{"slug":"movies/796734/rise-of-the-mummy"}},{"titles":{"name":"Eternos Compañeros"},"rate":{"average":7.57},"images":{"poster":"https://image.tmdb.org/t/p/original/bhJOcIudt18f4SoKqczHgMmTkd6.jpg","backdrop":"https://image.tmdb.org/t/p/original/zULVExh8h226IkxgDHI6zJAi76i.jpg"},"overview":"Un pequeño labrador llamado \"Little Q\" está entrenando para convertirse en un perro guía para los ciegos. Cuando finaliza su entrenamiento es enviado a ayudar a un famoso chef que ha perdido la vista recientemente, Lee Bo Ting. Irritable y poco amigable, Bo Ting duda al principio de si confiar en Little Q, y trata de alejarlo de él en distintas ocasiones. Sin embargo, a través de su perseverancia y lealtad, Little Q logra enseñar a Bo Ting que todavía vale la pena confiar en alguien, lo que abre un nuevo universo de posibilidades para el chef.","TMDbId":"603772","genres":[{"id":"18","name":"Drama"},{"id":"10751","name":"Familia"}],"cast":{"acting":[{"id":"20519","name":"任達華"},{"id":"65938","name":"梁詠琪"},{"id":"237032","name":"Him Law"},{"id":"66762","name":"Charlie Yeung"},{"id":"230576","name":"郭晉安"},{"id":"550946","name":"林文龍"},{"id":"3765061","name":"Pudding"},{"id":"78254","name":"賈曉晨"},{"id":"1172955","name":"Jimmy Wong Wa-Wo"},{"id":"238973","name":"Lowell Lo Koon-Ting"}]},"runtime":107,"releaseDate":"2019-08-15T00:00:00.000Z","url":{"slug":"movies/603772/eternos-companeros"}},{"titles":{"name":"Tengo miedo torero"},"rate":{"average":7.3},"images":{"poster":"https://image.tmdb.org/t/p/original/kvUYbb9QP5RLdqPDdLOTvTGS6iR.jpg","backdrop":"https://image.tmdb.org/t/p/original/pLB0WpANERn96iR1iGgyH9HEkf5.jpg"},"overview":"Entre disparos y boleros, florece una apasionada relación entre un travesti solitario y un joven guerrillero durante la dictadura de Pinochet.","TMDbId":"651170","genres":[{"id":"18","name":"Drama"},{"id":"10749","name":"Romance"}],"cast":{"acting":[{"id":"225011","name":"Alfredo Castro"},{"id":"1050107","name":"Leonardo Ortizgris"},{"id":"145025","name":"Julieta Zylberberg"},{"id":"225012","name":"Amparo Noguera"},{"id":"127252","name":"Sergio Hernández"},{"id":"1260894","name":"Paulina Urrutia"},{"id":"127248","name":"Luis Gnecco"},{"id":"966765","name":"Daniel Antivilo"},{"id":"1117847","name":"Ezequiel Díaz"},{"id":"1584786","name":"Gastón Salgado"},{"id":"1532148","name":"Erto Pantoja"},{"id":"2110671","name":"Nicolás Zárate"},{"id":"141625","name":"Víctor Montero"},{"id":"1579728","name":"Jaime Leiva"},{"id":"2711419","name":"Ana María Navarro"},{"id":"2780595","name":"Lara El-Narekh"},{"id":"1888640","name":"Paula Leoncini"},{"id":"225010","name":"Marcelo Alonso"},{"id":"1524300","name":"Pedro Fontaine"},{"id":"2225666","name":"Manuel Peña"},{"id":"2025421","name":"Maureen Junott"}]},"runtime":93,"releaseDate":"2020-10-15T00:00:00.000Z","url":{"slug":"movies/651170/tengo-miedo-torero"}},{"titles":{"name":"Siervos de la Guerra"},"rate":{"average":6.54},"images":{"poster":"https://image.tmdb.org/t/p/original/gxSLT3ZuZwwlhEGxZDR76nOD8ib.jpg","backdrop":"https://image.tmdb.org/t/p/original/o1V5CHGYxcwaSdHxvwBC2BOnkch.jpg"},"overview":"Dos policías son delegados para resolver el asesinato de un médico, un especialista en trasplantes de médula ósea y jefe de una empresa que opera en el campo de los trasplantes. Poco a poco, descubren una maraña de corrupción, un lucrativo comercio de órganos humanos e intentos de vender información confidencial sobre el ADN.","TMDbId":"625221","genres":[{"id":"53","name":"Suspenso"}],"cast":{"acting":[{"id":"1636671","name":"Piotr Stramowski"},{"id":"2233193","name":"Maria Kania"},{"id":"237832","name":"Paweł Królikowski"},{"id":"1689022","name":"Karolina Czarnecka"},{"id":"567802","name":"Michael Schiller"},{"id":"1866599","name":"Aleksandra Pisula"},{"id":"1245444","name":"Zbigniew Stryj"},{"id":"1618369","name":"Bartłomiej Kotschedoff"},{"id":"1209861","name":"Lidia Sadowa"},{"id":"1595133","name":"Monika Dryl"},{"id":"2520058","name":"Leszek Nitka"},{"id":"1946443","name":"Mateusz Rusin"},{"id":"97199","name":"Magda Biegańska"},{"id":"1112291","name":"Piotr Borowski"},{"id":"1573532","name":"Dariusz Jakubowski"},{"id":"2520063","name":"Jakub Kiczyński"},{"id":"136571","name":"Magdalena Kacprzak"},{"id":"2520074","name":"Hanna Skarga"},{"id":"2520078","name":"Norbert Kaczorowski"},{"id":"2520080","name":"Patryk Pietrzak"},{"id":"2520084","name":"Rafał Gierlach"},{"id":"2520088","name":"Dominik Piotrowski"},{"id":"2520092","name":"Paweł Prokopczuk"}]},"runtime":98,"releaseDate":"2019-08-22T00:00:00.000Z","url":{"slug":"movies/625221/siervos-de-la-guerra"}},{"titles":{"name":"Shiki Oriori: Sabores de la juventud"},"rate":{"average":6.9},"images":{"poster":"https://image.tmdb.org/t/p/original/mYpEbF8FrAzk5aLcdC5U8dQQBRR.jpg","backdrop":"https://image.tmdb.org/t/p/original/k4qOVgnpAjdtW7DGYOtIcWLzZ9d.jpg"},"overview":"Recuerdos evocados por un cuenco de fideos, el declive de una hermosa modelo y un agridulce primer amor. Tres muestras de historias urbanas en la China actual.","TMDbId":"513347","genres":[{"id":"16","name":"Animación"},{"id":"10749","name":"Romance"},{"id":"18","name":"Drama"}],"cast":{"acting":[{"id":"2106489","name":"坂泰斗"},{"id":"1250465","name":"伊瀬茉莉也"},{"id":"1249310","name":"寿美菜子"},{"id":"1124536","name":"白石晴香"},{"id":"216448","name":"安元洋貴"},{"id":"1279666","name":"大塚剛央"},{"id":"2103077","name":"長谷川育美"},{"id":"1576423","name":"Xiaoxing Yi"}]},"runtime":74,"releaseDate":"2018-08-04T00:00:00.000Z","url":{"slug":"movies/513347/shiki-oriori-sabores-de-la-juventud"}},{"titles":{"name":"Madame Curie"},"rate":{"average":6.61},"images":{"poster":"https://image.tmdb.org/t/p/original/5e1EjX5j24enIyaaUOq2pnkKy2N.jpg","backdrop":"https://image.tmdb.org/t/p/original/iFFC0ILEzcCGI8fJzixI9lI5n8o.jpg"},"overview":"Cuenta la historia de la ganadora del Premio Nobel Marie Curie y sus extraordinarios descubrimientos científicos, a través del prisma de su matrimonio con su esposo Pierre, y los efectos sísmicos y transformadores que su descubrimiento del radio tuvo en el siglo XX.","TMDbId":"480857","genres":[{"id":"18","name":"Drama"},{"id":"10749","name":"Romance"},{"id":"36","name":"Historia"}],"cast":{"acting":[{"id":"10882","name":"Rosamund Pike"},{"id":"32987","name":"Sam Riley"},{"id":"145143","name":"Aneurin Barnard"},{"id":"57461","name":"Simon Russell Beale"},{"id":"74158","name":"Katherine Parkinson"},{"id":"1237956","name":"Sian Brooke"},{"id":"1397778","name":"Anya Taylor-Joy"},{"id":"3783692","name":"Yvette Feuer"},{"id":"1759677","name":"Mirjam Novak"},{"id":"1386516","name":"Faye Bradbrook"},{"id":"2534392","name":"Drew Jacoby"},{"id":"1801770","name":"Harriet Turnbull"},{"id":"1266584","name":"Georgina Rich"},{"id":"4502442","name":"Elise Alexandre"},{"id":"1324456","name":"Dóra Köves"},{"id":"149466","name":"Mark Phelan"},{"id":"1342746","name":"Alexis Latham"},{"id":"2412376","name":"Indica Watson"},{"id":"1139380","name":"Federica Fracassi"},{"id":"20471","name":"Demetri Goritsas"},{"id":"4502448","name":"Charles Tumbridge"},{"id":"17199","name":"Corey Johnson"},{"id":"1142344","name":"Péter Fancsikai"},{"id":"1874434","name":"Paul Albertson"},{"id":"2100973","name":"Yasuhito Ishikawa"},{"id":"1351177","name":"Arthur Bateman"},{"id":"4502455","name":"Ema Yuasa"},{"id":"4502457","name":"Nicola Willis"},{"id":"4502460","name":"Acacia Schachte"},{"id":"2902561","name":"Joseph Kudra"},{"id":"2838403","name":"Robbie Moore"},{"id":"4210614","name":"Jonas Vanderkerckhove"},{"id":"4210608","name":"Oscar Ramos"},{"id":"1335218","name":"Richard Pepple"},{"id":"1912496","name":"Alex Bartram"},{"id":"2534398","name":"Isabella Miles"},{"id":"2534396","name":"Ariella Glaser"},{"id":"1819043","name":"Martin Anzor"},{"id":"1912499","name":"Cara Bossom"},{"id":"2300262","name":"Edward Davis"},{"id":"27659","name":"Tim Woodward"},{"id":"4086530","name":"Tamás Szabó"}]},"runtime":109,"releaseDate":"2020-03-11T00:00:00.000Z","url":{"slug":"movies/480857/madame-curie"}}],"pages":636,"topMoviesDay":[{"titles":{"name":"Longlegs: Coleccionista de almas"},"images":{"poster":"https://image.tmdb.org/t/p/original/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg"},"TMDbId":"1226578","runtime":101,"releaseDate":"2024-07-10T00:00:00.000Z","url":{"slug":"movies/1226578/longlegs-coleccionista-de-almas"},"rate":{"average":6.71}},{"titles":{"name":"IntensaMente 2"},"images":{"poster":"https://image.tmdb.org/t/p/original/aQnbNiadeGzGSjWLaXyeNxpAUIx.jpg"},"TMDbId":"1022789","runtime":96,"releaseDate":"2024-06-11T00:00:00.000Z","url":{"slug":"movies/1022789/intensamente-2"},"rate":{"average":7.63}},{"titles":{"name":"Tornados"},"images":{"poster":"https://image.tmdb.org/t/p/original/4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg"},"TMDbId":"718821","runtime":123,"releaseDate":"2024-07-10T00:00:00.000Z","url":{"slug":"movies/718821/tornados"},"rate":{"average":7.08}},{"titles":{"name":"Alien: Romulus"},"images":{"poster":"https://image.tmdb.org/t/p/original/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg"},"TMDbId":"945961","runtime":119,"releaseDate":"2024-08-13T00:00:00.000Z","url":{"slug":"movies/945961/alien-romulus"},"rate":{"average":7.35}},{"titles":{"name":"El Sindicato"},"images":{"poster":"https://image.tmdb.org/t/p/original/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg"},"TMDbId":"704239","runtime":109,"releaseDate":"2024-08-15T00:00:00.000Z","url":{"slug":"movies/704239/el-sindicato"},"rate":{"average":6.33}}],"topMoviesWeek":[{"titles":{"name":"Tornados"},"images":{"poster":"https://image.tmdb.org/t/p/original/4UWDVI6IleoKl9T6wHbHcqd5zAX.jpg"},"TMDbId":"718821","runtime":123,"releaseDate":"2024-07-10T00:00:00.000Z","url":{"slug":"movies/718821/tornados"},"rate":{"average":7.08}},{"titles":{"name":"IntensaMente 2"},"images":{"poster":"https://image.tmdb.org/t/p/original/aQnbNiadeGzGSjWLaXyeNxpAUIx.jpg"},"TMDbId":"1022789","runtime":96,"releaseDate":"2024-06-11T00:00:00.000Z","url":{"slug":"movies/1022789/intensamente-2"},"rate":{"average":7.63}},{"titles":{"name":"Alien: Romulus"},"images":{"poster":"https://image.tmdb.org/t/p/original/8PYqGSd8MOm5ce8io4qNSAiSExW.jpg"},"TMDbId":"945961","runtime":119,"releaseDate":"2024-08-13T00:00:00.000Z","url":{"slug":"movies/945961/alien-romulus"},"rate":{"average":7.35}},{"titles":{"name":"Deadpool \u0026 Wolverine"},"images":{"poster":"https://image.tmdb.org/t/p/original/9TFSqghEHrlBMRR63yTx80Orxva.jpg"},"TMDbId":"533535","runtime":128,"releaseDate":"2024-07-24T00:00:00.000Z","url":{"slug":"movies/533535/deadpool-and-wolverine"},"rate":{"average":7.9}},{"titles":{"name":"El Sindicato"},"images":{"poster":"https://image.tmdb.org/t/p/original/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg"},"TMDbId":"704239","runtime":109,"releaseDate":"2024-08-15T00:00:00.000Z","url":{"slug":"movies/704239/el-sindicato"},"rate":{"average":6.33}}],"blog":false},"__N_SSG":true},"page":"/peliculas","query":{},"buildId":"npsUg335OXnW9LSY_6Esg","isFallback":false,"gsp":true,"locale":"es","locales":["es"],"defaultLocale":"es","scriptLoader":[]}
+  </script>
+  <script data-cf-settings="7e066b93c9d30a592c704d8f-|49" defer="" src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js">
+  </script>
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"8b858eecbb36a4f1","version":"2024.8.0","r":1,"token":"1bbaad5fd7204d76b24134c39abcedc7","serverTiming":{"name":{"cfL4":true}}}' defer="" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015">
+  </script>
+ </body>
+</html>
